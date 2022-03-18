@@ -9,3 +9,5 @@
 # 方法
 - 一次会议一个issue，由主讲人发起
 - 其余人员可以参与该issue讨论
+- ![image](https://user-images.githubusercontent.com/34536352/159002450-c96a5347-2874-478f-bfcc-be2920c4723b.png)
+
