@@ -2,7 +2,7 @@
 | Name | pdf   |    github |
 | :--- | :---  |   :---:   |
 |      |[Motion Planning and Cooperative Manipulation for Mobile Robots With Dual Arms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9754220)|    |
-|      |        | [github](RL_arm_under_sparse_reward)
+|      |        | [RL_arm_under_sparse_reward](https://github.com/PiggyCh/RL_arm_under_sparse_reward)
 
 
 # NavigationProject
