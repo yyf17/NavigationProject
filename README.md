@@ -1,3 +1,9 @@
+# 双臂机器人相关文献
+| Name | pdf   |    github |
+| :--- | :---  |   :---:   |
+|      |[Motion Planning and Cooperative Manipulation for Mobile Robots With Dual Arms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9754220)|    |
+
+
 # NavigationProject
 该项目旨在分享与讨论导航项目的相关会议
 
