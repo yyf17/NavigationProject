@@ -3,7 +3,7 @@
 | :--- | :---  |   :---:   |
 |      |[Motion Planning and Cooperative Manipulation for Mobile Robots With Dual Arms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9754220)|    |
 |      |        | [RL_arm_under_sparse_reward](https://github.com/PiggyCh/RL_arm_under_sparse_reward)
-
+|      |[Adversarial Skill Learning for Robust Manipulation](https://arxiv.org/pdf/2011.03383.pdf)        | [github](https://github.com/Pingcheng-Jian/Adversarial_Skill_Learning_for_Robust_Manipulation)  |
 
 # NavigationProject
 该项目旨在分享与讨论导航项目的相关会议
