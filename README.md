@@ -9,7 +9,7 @@
 | -------------- | :----------------------------------------------------------- | :----------------------------------------------- | ----------- |
 | soundspaces    | [**SoundSpaces: Audio-Visual Navigation in 3D Environments**](https://scontent-hkg4-2.xx.fbcdn.net/v/t39.8562-6/10000000_225707052822142_3554026592703488763_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=IycUF2sAw5kAX_fXrtY&_nc_ht=scontent-hkg4-2.xx&oh=00_AT-0SXodwx2wCx_UrfeW8Tl-5abiG5LFjQzz_DJ0sr0DXA&oe=62D592BC) | https://github.com/facebookresearch/sound-spaces |             |
 | soundspaces2.0 | [**Soundspaces 2.0: A Simulation Platform for Visual-Acoustic Learning**](https://arxiv.org/pdf/2206.08312.pdf) | https://github.com/facebookresearch/sound-spaces |             |
-|                |                                                              |                                                  |             |
+         
 |                | [**Sound Adversarial Audio-Visual Navigation**](https://arxiv.org/pdf/2202.10910) | https://github.com/yyf17/SAAVN                   |             |
 |                | [**Look, Listen, and Act: Towards Audio-Visual Embodied Navigation(ICRA 2020)**](https://arxiv.org/pdf/1912.11684.pdf) |                                                  |             |
 | AV-WaN         | **[Learning to set waypoints for AV-NAV (ICLR2021)](https://arxiv.org/pdf/2008.09622)** |                                                  |             |
